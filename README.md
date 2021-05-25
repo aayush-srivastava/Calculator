@@ -1,2 +1,2 @@
-A simple calculator application created for a college assignment.
+A simple calculator created for a college assignment.
 
